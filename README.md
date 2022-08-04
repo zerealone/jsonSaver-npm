@@ -11,7 +11,7 @@ npm i @ze-real-one/jsonsaver
 ```
 Then in the code :
 ```js
-const jsonSaver = require("@ze-real-one/jsonsaver")
+const jsonsaver = require("@ze-real-one/jsonsaver")
 ```
 ## Versions List
 - `0.0.5` - *Not supported anymore*
