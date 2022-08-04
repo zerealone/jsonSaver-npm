@@ -7,11 +7,11 @@ https://www.npmjs.com/package/@ze-real-one/jsonsaver
 Using the shell / terminal and npm :
 
 ```shell
-npm i @ze-real-one/jsonSaver
+npm i @ze-real-one/jsonsaver
 ```
 Then in the code :
 ```js
-const jsonSaver = require("@ze-real-one/jsonSaver")
+const jsonSaver = require("@ze-real-one/jsonsaver")
 ```
 
 ## Usage
