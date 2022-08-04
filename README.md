@@ -1,6 +1,8 @@
 # jsonSaver-npm
 The jsonSaver package files and docs
 
+https://www.npmjs.com/package/@ze-real-one/jsonsaver
+
 ## Installation
 Using the shell / terminal and npm :
 
