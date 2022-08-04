@@ -13,6 +13,10 @@ Then in the code :
 ```js
 const jsonSaver = require("@ze-real-one/jsonsaver")
 ```
+## Versions List
+- `0.0.5` - *Not supported anymore*
+- `0.0.6` - *Not supported anymore*
+- `0.0.7` - __Supported__
 
 ## Usage
 
