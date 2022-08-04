@@ -17,6 +17,7 @@ const jsonsaver = require("@ze-real-one/jsonsaver")
 - `0.0.5` - *Not supported anymore*
 - `0.0.6` - *Not supported anymore*
 - `0.0.7` - __Supported__
+- `0.0.8` - __Supported (and recommended to use!)__
 
 ## Usage
 
